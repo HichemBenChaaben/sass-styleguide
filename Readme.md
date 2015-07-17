@@ -1,7 +1,5 @@
 # Sass styleguide
 
-* Opinionated sass / css style guide for teams
-
 Managging css using sass or any pseudo compiling language can be brittle, leads to css bloat or specifity issues.
 If you're looking for an opiniationted surely effective way to manage your css for an application  here's the full guide
 
