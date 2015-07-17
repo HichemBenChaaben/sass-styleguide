@@ -309,7 +309,7 @@ Never attempt to write twice as much the css for this.
 
 Your structure should look like:
 
-``bash
+```bash
 └── sass
     ├── _ltr-settings.sass
     ├── _rtl-settings.sass
